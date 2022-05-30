@@ -2,7 +2,7 @@
 I'm Anthony Espirat from baguette land 🇫🇷  
 
 - *Currently* : Looking for work  
-- *Previously* : Designer Web
+- *Previously* : Designer/Dev Web
 
 ### 🖥️ Favorite Languages
 
