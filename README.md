@@ -1,7 +1,7 @@
 # Hi there 👋 !
 I'm Anthony Espirat from baguette land 🇫🇷  
 
-- *Currently* : O'Clock Student (French Dev School)  
+- *Currently* : Looking for work  
 - *Previously* : Designer Web
 
 ### 🖥️ Favorite Languages
