@@ -1,7 +1,7 @@
 # Hi there 👋 !
 I'm Anthony Espirat from baguette land 🇫🇷  
 
-- *Currently* : Looking for work  
+- *Currently* : Work for Psynergy  
 - *Previously* : Designer/Dev Web
 
 ### 🖥️ Favorite Languages
