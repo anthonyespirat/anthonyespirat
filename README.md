@@ -6,7 +6,7 @@ I'm Anthony Espirat from baguette land 🇫🇷
 
 ### 🖥️ Favorite Languages
 
-- 💜 Javascript *(Vanilla, React, Vue)* 
+- 💜 Javascript / Typescript *(Vanilla, React, Node)* 
 - HTML / CSS *(keep loving front)*
 
 <!--
