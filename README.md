@@ -1,7 +1,7 @@
 # Hi there 👋 !
 I'm Anthony Espirat from baguette land 🇫🇷  
 
-- *Currently* : Work for Psynergy  
+- *Currently* : Work for mewo.io
 - *Previously* : Designer/Dev Web
 
 ### 🖥️ Favorite Languages
